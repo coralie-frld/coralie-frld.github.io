@@ -1,0 +1,19 @@
+h1 {
+	color: #0b5f8f;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+}
+h2 {
+	text-decoration:underline;
+	color: #0f91db;
+	font-style: italic;
+}
+p{
+	font-family:times new roma;
+	font-style:italic;
+}
+body{
+	background-color: #e1eff7;
+}
